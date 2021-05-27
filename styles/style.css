@@ -102,6 +102,14 @@ body, html {
 	margin: auto;
 	margin-top: 150px;
 	width: 50%;
+	
+    z-index:9999;
+    -webkit-filter: blur(0px);
+    -moz-filter: blur(0px);
+    -o-filter: blur(0px);
+    -ms-filter: blur(13px);
+    filter: blur(0px);
+	
 }
 
 
